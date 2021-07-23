@@ -1,0 +1,40 @@
+#mySidenav a {
+    position: fixed;
+    left: -80px;
+    transition: 0.3s;
+    padding: 0.8rem;
+    width: 6rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    left: 0;
+}
+
+#notice {
+    top: 4.5rem;
+    background-color: #084298;
+}
+
+#class {
+    top: 7.8rem;
+    background-color: #0f5132;
+}
+
+#live {
+    top: 11.1rem;
+    background-color: #842029;
+}
+
+#result{
+    top: 14.45rem;
+    background-color: #055160
+}
+
+#help {
+    top: 17.75rem;
+    background-color: #664d03
+}

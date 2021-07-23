@@ -1,0 +1,14 @@
+.adjust {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.align {
+    text-align: center;
+}
+
+.adjust2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}

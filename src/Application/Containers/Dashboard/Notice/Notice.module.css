@@ -1,0 +1,36 @@
+.alertz {
+    word-wrap: break-word;
+    width: 48%;
+    height: 9rem;
+    float: left;
+    margin-right: 2%;
+    text-align: center;
+}
+
+.textadj{
+    margin-bottom: 0;
+}
+
+.textadj2{
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* @media (max-width: 1600px) {
+    .alertz {
+        word-wrap: break-word;
+        width: 48%;
+        margin-right: 2%;
+        float: left;
+    }
+} */
+
+@media (max-width: 1200px) {
+    .alertz {
+        word-wrap: break-word;
+        width: 100%;
+        margin-right: 0%;
+        float: none;
+        height: auto;
+    }
+}

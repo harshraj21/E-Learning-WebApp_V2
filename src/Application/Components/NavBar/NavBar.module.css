@@ -1,0 +1,38 @@
+.marginleft{
+    margin-left: 1rem;
+}
+
+.marginright{
+    margin-right: 1rem;
+}
+
+.resize{
+    width: 40px;
+    height: 40px;
+}
+
+#custommargin{
+    margin-right: 2rem;
+}
+
+#resize2{
+    min-width: auto;
+    width: auto;
+    height: auto;
+}
+
+#removepad{
+    padding: 0%;
+    color: aliceblue;
+    box-shadow: none;
+}
+
+#link{
+    text-decoration: none;
+    padding: 1rem;
+    color: black;
+}
+
+#linkoutside{
+    text-decoration: none;
+}
